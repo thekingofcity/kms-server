@@ -27,7 +27,7 @@ KMS 激活的前提是你的系统是批量授权版本，即 VL 版，一般企
 如果你手动输过其他 key，那么这个内置的 key 就会被替换掉，这个时候如果你想用 KMS，那么就需要把 GVLK key 输回去。首先，到 [https://docs.microsoft.com/en-us/windows-server/get-started/kmsclientkeys](https://docs.microsoft.com/en-us/windows-server/get-started/kmsclientkeys)
 获取你对应版本的KEY。
 
-如果打不开下面有对应的 [Windows GVLK 密钥对照表（KMS 激活专用）](#Windows-GVLK-密钥对照表（KMS 激活专用）)
+如果打不开下面有对应的 [Windows GVLK 密钥对照表（KMS 激活专用）](#windows-gvlk-密钥对照表kms-激活专用)
 
 如果不知道自己的系统是什么版本，可以运行以下命令查看系统版本：
 
