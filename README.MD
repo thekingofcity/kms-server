@@ -18,7 +18,8 @@ vlmcsd-1111-2017-06-17-Hotbird64
 
 只需要绑定1688端口即可对外开放1688 就可以用来激活了
 ```
-docker run -d -p 1688:1688 REPOSITORY:TAG
+docker pull hmbsbige/kms-server:latest
+docker run -d -p 1688:1688 hmbsbige/kms-server:latest
 ```
 
 # 延伸教学：
