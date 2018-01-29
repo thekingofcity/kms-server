@@ -7,9 +7,13 @@ kms.luody.info
 ```
 
 ## kms version:
+
 ```
-vlmcsd-1108-2017-01-19-Hotbird64
+vlmcsd-1111-2017-06-17-Hotbird64
 ```
+
+[二进制文件更新地址](https://forums.mydigitallife.net/threads/emulated-kms-servers-on-non-windows-platforms.50234/)
+
 # Docker 使用方法：
 
 只需要绑定1688端口即可对外开放1688 就可以用来激活了
